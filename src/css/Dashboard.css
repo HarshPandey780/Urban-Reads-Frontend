@@ -1,0 +1,23 @@
+/* Dashboard.css */
+
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(https://www.creativefabrica.com/wp-content/uploads/2023/06/06/Watercolor-Bookshelf-Clipart-Images-13-Graphics-71414714-2-580x387.png);
+  height: 90vh;
+}
+
+.dashboard-box {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  width: 200px;
+  height: 70px;
+  margin-top: 40px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color:  #00ABE4;
+  color: #FFFFFF;
+  text-align: center;
+
+}
